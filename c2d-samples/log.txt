@@ -1,0 +1,10 @@
+=========================================
+Development Logs
+
+Author:
+kencode (tklee1975@gmail.com)
+=========================================
+
+2013-10-14: 
+- Initial Setup
+- Note: Project includes cocos2d-iphone with Box2D support
